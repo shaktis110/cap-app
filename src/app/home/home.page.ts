@@ -17,3 +17,5 @@ this.platform.ready().then(() =>{
 });
 
 }
+
+}
