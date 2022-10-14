@@ -60,6 +60,7 @@
     "cordova-plugin-local-notification": "git+https://github.com/shaktis110/cordova-plugin-local-notifications.git",
     "cordova-plugin-localization-strings": "^4.2.0",
     "cordova-plugin-nativestorage": "^2.3.2",
+     "cordova-plugin-navigationbar-color": "^0.1.0",
     "cordova-plugin-network-information": "^3.0.0",
     "cordova-plugin-purchase": "^11.0.0",
     "cordova-plugin-tts-advanced": "^0.5.2",
